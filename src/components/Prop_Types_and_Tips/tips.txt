@@ -1,0 +1,2 @@
+1.Destructure props .
+2.Type Alias you will define all of them in one file . Define them all and now you will use them inside all the other files . 
